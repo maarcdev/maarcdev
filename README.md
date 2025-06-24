@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, meu nome é Marcelo!
 
-<!--
-**maarcdev/maarcdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code>System.out.println("Welcome to my github!😆")</code>
+<hr>
 
-Here are some ideas to get you started:
+<p>🎓 Estudante de Ciência da Computação na <a href="https://www.uerr.edu.br/" target="blank_">Universidade Estadual de Roraima</a></p>
+<a href="https://instagram.com/marhsilv_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/meloxss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Skills 💻
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,cs,postgres,git,github,java)](https://skillicons.dev)
