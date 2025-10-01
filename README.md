@@ -10,4 +10,4 @@
 
  ## Skills 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,postgres,git,github,cs,java,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,postgres,git,github,python,django,java,linux)](https://skillicons.dev)
