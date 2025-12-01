@@ -1,7 +1,7 @@
-<h1 align="center"> Naftaly Souza </h1>
+<h1 align="center"> Marcelo Henrique </h1>
     
 <div align="center">
-  <b> Backend developer | Cloud enthusiast | Task automation </b>
+  <b> Backend developer | Computer Science Student | Beginner Software developer </b>
   <br>
   <br>
   
@@ -15,13 +15,13 @@
 <!-- Socials -->
 <div align="center">
     <a target="_blank" style="text-decoration: none;">
-        <a href="https://www.linkedin.com/in/nftsz/">
+        <a href="https://www.linkedin.com/in/maarcdev/">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
         </a>
-        <a href="https://twitter.com/0xblkowl" target="_blank">
+        <a href="https://x.com/maarcdev" target="_blank">
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
         </a>
-        <a href ="mailto:naft.dev@proton.me">
+        <a href ="marcelohssilva2@proton.me">
             <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
         </a>
     </a>
@@ -30,15 +30,14 @@
 ---
 
 <!-- Breve Descricao -->
-Here, I'm just another technology enthusiast. I work on some projects in Java and am currently dedicated to learning more about other tools, always seeking to further expand my programming knowledge. I started in the area because I often felt the need to obtain tools that I couldn't find on the internet, so I decided to create them myself. <br>
-My focus as a programmer is problem solving and task automation. I like new challenges and learning new technologies.
+Desenvolvedor Back End, com foco em Java e em constante expansão do meu stack técnico. Entrei na área por necessidade: quando não encontrava a ferramenta que eu queria, passei a desenvolvê-la.
+Atuo com foco em resolver problemas reais, otimizar processos e automatizar tarefas para gerar eficiência operacional. Gosto de desafios, aprendo rápido e mantenho evolução contínua nas tecnologias que fortalecem minha performance como desenvolvedor.”
 
 ---
 
 <div align="center">
   
   <!-- Linguagens -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -61,11 +60,4 @@ My focus as a programmer is problem solving and task automation. I like new chal
   <img src="https://komarev.com/ghpvc/?username=maarcdev"/>
 </div>
 
-
-<!--
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
--->
 
