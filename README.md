@@ -1,13 +1,71 @@
-# Olá, meu nome é Marcelo!
+<h1 align="center"> Naftaly Souza </h1>
+    
+<div align="center">
+  <b> Backend developer | Cloud enthusiast | Task automation </b>
+  <br>
+  <br>
+  
+  <blockquote>
+      <p><i>
+          "Every line of code is like a clue in a treasure hunt game, taking us closer to the desired solution."
+      </i></p>
+  </blockquote>
+</div>
 
-<code>System.out.println("Welcome to my github!😆")</code>
-<hr>
+<!-- Socials -->
+<div align="center">
+    <a target="_blank" style="text-decoration: none;">
+        <a href="https://www.linkedin.com/in/nftsz/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        </a>
+        <a href="https://twitter.com/0xblkowl" target="_blank">
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
+        </a>
+        <a href ="mailto:naft.dev@proton.me">
+            <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank">
+        </a>
+    </a>
+</div>
 
-<p>🎓 Estudante de Ciência da Computação na <a href="https://www.uerr.edu.br/" target="blank_">Universidade Estadual de Roraima</a></p>
-<a href="https://instagram.com/instrutoresquilo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/maarcdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<hr>
+---
 
- ## Skills 💻
+<!-- Breve Descricao -->
+Here, I'm just another technology enthusiast. I work on some projects in Java and am currently dedicated to learning more about other tools, always seeking to further expand my programming knowledge. I started in the area because I often felt the need to obtain tools that I couldn't find on the internet, so I decided to create them myself. <br>
+My focus as a programmer is problem solving and task automation. I like new challenges and learning new technologies.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,postgres,git,github,python,django,java,linux)](https://skillicons.dev)
+---
+
+<div align="center">
+  
+  <!-- Linguagens -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <br>
+
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff"/>
+  
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Views -->
+  <img src="https://komarev.com/ghpvc/?username=maarcdev"/>
+</div>
+
+
+<!--
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+-->
+
