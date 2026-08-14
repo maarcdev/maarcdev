@@ -26,7 +26,7 @@
 ---
 
 <!-- Breve Descricao -->
-Desenvolvedor Back End, com foco em Java e em constante expansão do meu stack técnico. Entrei na área por necessidade: quando não encontrava a ferramenta que eu queria, passei a desenvolvê-la.
+Desenvolvedor Full-Stack, com foco em Java e em constante expansão do meu stack técnico. Entrei na área por necessidade: quando não encontrava a ferramenta que eu queria, passei a desenvolvê-la.
 Atuo com foco em resolver problemas reais, otimizar processos e automatizar tarefas para gerar eficiência operacional. Gosto de desafios, aprendo rápido e mantenho evolução contínua nas tecnologias que fortalecem minha performance como desenvolvedor.”
 
 ---
