@@ -1,7 +1,7 @@
 <h1 align="center"> Marcelo Henrique </h1>
     
 <div align="center">
-  <b> Backend developer | Computer Science Student | Beginner Software developer </b>
+  <b> Full-Stack developer  Beginner Software developer </b>
   <br>
   <br>
   
